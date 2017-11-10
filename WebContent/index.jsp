@@ -5,6 +5,8 @@
 <title>Pagina JSP</title>
 </head>
 <body>
+	<a href="branchDanilo.jsp">Clique aqui para a nova pagina</a>
+
 	<h1>Mensagem de boas vindas !</h1>
 	<h3>ass; nicholas maestrello</h3>
 
